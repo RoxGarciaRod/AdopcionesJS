@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    background-color: rgb(50, 69, 242);
+    height: 100px;
+    color: white;
+    padding-top: 20px;
+    padding-left: 30px;
+    text-transform: uppercase;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #d7ffff;
+}
+
+.tarjeta {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: 600px;
+    height: 60%;
+    margin-top: 10px;
+    background-color: #e2ffff;
+    border: solid black 1px;
+    border-radius: 3px;
+    box-shadow: 3px 3px 5px 2px rgba(0, 0, 0, 0.3);
+    text-transform: uppercase;
+}
+
+.botonAceptar {
+    background-color: rgb(50, 69, 242);
+    width: 80px;
+    height: 30px;
+    border-radius: 2px;
+    border: none;
+    margin: 20px;
+    color: white;
+}
+
+.botonAceptar:hover, .btnInicial:hover {
+    background-color: rgb(79, 95, 237);
+}
+
+.divBotones {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.btnInicial {
+    font-size: 20px;
+    width: 140px;
+    height: 55px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(50, 69, 242);
+}
+
+strong {
+    font-size: 20px;
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Luna",
+        "raza": "poddle",
+        "edad": 2,
+        "sexo": "hembra"
+    },
+    {
+        "nombre": "Firu",
+        "raza": "salchicha",
+        "edad": 2,
+        "sexo": "macho"
+    },
+    {
+        "nombre": "Chelsea",
+        "raza": "san bernardo",
+        "edad": 1,
+        "sexo": "hembra"
+    },
+    {
+        "nombre": "Faon",
+        "raza": "malinois",
+        "edad": 1,
+        "sexo": "macho"
+    },
+    {
+        "nombre": "Picasso",
+        "raza": "poddle",
+        "edad": 2,
+        "sexo": "macho"
+    },
+    {
+        "nombre": "Oscar",
+        "raza": "malinois",
+        "edad": 2,
+        "sexo": "macho"
+    }
+]
